@@ -1,14 +1,14 @@
 ---
-title: "Rob Cavanaugh"    
+title: "Chelsea N Wong"    
 site: distill::distill_website
 image: "images/profile.jpg"
 links:
   - label: Google Scholar
-    url: https://scholar.google.com/citations?user=7pMLCJsAAAAJ&hl=en&oi=sra
+    url: https://scholar.google.com/citations?user=x4Wk0DEAAAAJ&hl=en
   - label: Twitter
-    url: https://twitter.com/rb_cavanaugh
-  - label: CV
-    url: cv-cavanaugh.pdf
+    url: https://twitter.com/ChelseaNWongMD
+#  - label: CV
+#    url: cv-cavanaugh.pdf
 output:
   postcards::solana
 ---
@@ -23,23 +23,27 @@ font-family: 'Helvetica';
 
 ## Bio
 
-I'm a PhD candidate at the [University of Pittsburgh](https://www.lrcl.pitt.edu/) and ASHA-certified speech-language pathologist. My research aims to improve the effectiveness and clinical implementation of aphasia rehabilitation services from two perspectives: (1) specifying the active ingredients of aphasia treatments and (2) developing technology-based tools to accelerate the clinical implementation of aphasia research.
+Chelsea N Wong, MD
 
-Contact me at rob.cavanaugh [@] pitt.edu
+T32 Post-Doctoral Fellow | Harvard Translational Research in Aging at HSL
+
+
+Medical School: University of Illinois Urbana-Champaign
+
+Residency: Beth Israel Deaconess Medical Center, Internal Medicine
+
+Fellowship: Harvard Multicampus Geriatric Fellowship Program with Advanced 2nd Year in Research
+
 
 ## Publications
 
-Quique, Y. M., **Cavanaugh, R.,** Lescht, E., & Evans, W. S. (2022). Applying adaptive distributed practice to self-managed computer-based anomia treatment: A single-case experimental design. Journal of Communication Disorders, 99, 106249. <https://doi.org/10.1016/j.jcomdis.2022.106249>.
-
-**Cavanaugh, R.,** Kravetz C., Jarold L., Quique Y., Turner R., & Evans, W.S. (2021). Is There a Research--Practice Dosage Gap in Aphasia Rehabilitation? American Journal of Speech-Language Pathology, 30(5), 2115--2129. <https://doi.org/10.1044/2021_AJSLP-20-00257>.
-
-**Example of self-archiving a paper - click on the title**
-
-Authors, Amazing (2022). [A very provacative title.](fake-paper.pdf) Journal of Awesome.
+***Wong, C. N., Wilczek, M. P., Smith, L. H., Bosse, J. D., Richard, E. L., Cavanaugh, R., ... & Olivieri-Mui, B. (2023). Frailty Among Sexual and Gender Minority Older Adults: The All of Us Database. The Journals of Gerontology: Series A, glad149. https://doi.org/10.1093/gerona/glad149
 
 
 ## Presentations
 
-Akers, C, Boyle M, Swiderski A, Hula WD, **Cavanaugh R.,** Elman R. (2021) Using complete utterances to measure change in conversational discourse following communication- based group treatment. Abstract for poster presentation, 51st annual Clinical Aphasiology Conference, Online
+***Wong, C., Wilczek, M., Bosse, J., Smith, L., Manjourides, J., Orkaby, A., & Olivieri-Mui, B. “Developing a Novel Frailty Index to Study Frailty of Sexual and Gender Minority Older Adults in the All of Us Database”, Gerontological Society of America, November 6, 2022, Indianapolis, IN.
 
-**Cavanaugh, R.,** Terhorst, L., Swiderski, A.W., Hula, W.D., Evans, W.S. (2020). A Systematic Appraisal of Individual Effect Sizes in Aphasia Single-Case Designs via Simulation. Abstract for poster presentation, 58th Academy of Aphasia, Philadelpha PA.
+***Wong, C., Wilczek, M., Bosse, J., Smith, L., Manjourides, J., Orkaby, A., & Olivieri-Mui, B. “Frailty among Sexual and Gender Minority Older Adults: The All of Us Database”, American Geriatrics Society, May 4,  2023, Long Beach, CA. 
+
+
