@@ -7,8 +7,8 @@ links:
     url: https://scholar.google.com/citations?user=x4Wk0DEAAAAJ&hl=en
   - label: Twitter
     url: https://twitter.com/ChelseaNWongMD
-#  - label: CV
-#    url: cv-cavanaugh.pdf
+  - label: CV
+    url: cv-cnwong.pdf
 output:
   postcards::solana
 ---
